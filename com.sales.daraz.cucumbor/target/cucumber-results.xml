@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="10.731">
+    <testcase classname="Home Page Functionality" name="Verify Home page Functionality" time="10.352">
+        <system-out><![CDATA[Given I am in Daraz.com.bd..................................................passed
+And I want to view the logo in left top side................................passed
+And I want to view the search bar in mid....................................passed
+And There must be a search button next to search bar........................passed
+And Also I want to view cart option.........................................passed
+Then i want a category option...............................................passed
+And In Category there must be sixteen categories............................passed
+And In landing page, there must be twelve menus in left side and assert every category.passed
+When I want to pay,there must be shown five payment methods in the footer...passed
+And Internationally Daraz is available in five countries and shows in footer.passed
+]]></system-out>
+    </testcase>
+</testsuite>

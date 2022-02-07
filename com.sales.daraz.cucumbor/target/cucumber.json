@@ -1,0 +1,180 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-01-22T19:28:24.170Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2343483800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stape_definitions.Hook.setUp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify Home page Functionality",
+        "description": "",
+        "id": "home-page-functionality;verify-home-page-functionality",
+        "after": [
+          {
+            "result": {
+              "duration": 4211583000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stape_definitions.Hook.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2354024800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am in Daraz.com.bd",
+            "match": {
+              "location": "stape_definitions.step_definition.i_am_in_Daraz_com_bd()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 614355200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to view the logo in left top side",
+            "match": {
+              "location": "stape_definitions.step_definition.i_want_to_view_the_logo_in_left_top_side()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75797200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I want to view the search bar in mid",
+            "match": {
+              "location": "stape_definitions.step_definition.i_want_to_view_the_search_bar_in_mid()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 122672300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "There must be a search button next to search bar",
+            "match": {
+              "location": "stape_definitions.step_definition.there_must_be_a_search_button_next_to_search_bar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55849900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Also I want to view cart option",
+            "match": {
+              "location": "stape_definitions.step_definition.also_I_want_to_view_cart_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 143614900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "i want a category option",
+            "match": {
+              "location": "stape_definitions.step_definition.i_want_a_category_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 47871200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "In Category there must be sixteen categories",
+            "match": {
+              "location": "stape_definitions.step_definition.in_Category_there_must_be_sixteen_categories()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80783200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "In landing page, there must be twelve menus in left side and assert every category",
+            "match": {
+              "location": "stape_definitions.step_definition.in_landing_page_there_must_be_twelve_menus_in_left_side_and_assert_every_category()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 32912800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I want to pay,there must be shown five payment methods in the footer",
+            "match": {
+              "location": "stape_definitions.step_definition.i_want_to_pay_there_must_be_shown_five_payment_methods_in_the_footer()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 24932800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Internationally Daraz is available in five countries and shows in footer",
+            "match": {
+              "location": "stape_definitions.step_definition.internationally_Daraz_is_available_in_five_countries_and_shows_in_footer()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Home Page Functionality",
+    "description": "    As a general users, I want to search for products\n    So that I canbuy products that I like",
+    "id": "home-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/verify_home_page.feature",
+    "tags": [
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

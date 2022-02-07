@@ -1,0 +1,182 @@
+[
+  {
+    "source": "I am in Daraz.com.bd",
+    "steps": [
+      {
+        "name": "I am in Daraz.com.bd",
+        "aggregatedDurations": {
+          "median": 0.3540248,
+          "average": 0.3540248
+        },
+        "durations": [
+          {
+            "duration": 0.3540248,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "I want to view the logo in left top side",
+    "steps": [
+      {
+        "name": "I want to view the logo in left top side",
+        "aggregatedDurations": {
+          "median": 0.6143552,
+          "average": 0.6143552
+        },
+        "durations": [
+          {
+            "duration": 0.6143552,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "I want to view the search bar in mid",
+    "steps": [
+      {
+        "name": "I want to view the search bar in mid",
+        "aggregatedDurations": {
+          "median": 0.0757972,
+          "average": 0.0757972
+        },
+        "durations": [
+          {
+            "duration": 0.0757972,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "There must be a search button next to search bar",
+    "steps": [
+      {
+        "name": "There must be a search button next to search bar",
+        "aggregatedDurations": {
+          "median": 0.1226723,
+          "average": 0.1226723
+        },
+        "durations": [
+          {
+            "duration": 0.1226723,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Also I want to view cart option",
+    "steps": [
+      {
+        "name": "Also I want to view cart option",
+        "aggregatedDurations": {
+          "median": 0.0558499,
+          "average": 0.0558499
+        },
+        "durations": [
+          {
+            "duration": 0.0558499,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "i want a category option",
+    "steps": [
+      {
+        "name": "i want a category option",
+        "aggregatedDurations": {
+          "median": 0.1436149,
+          "average": 0.1436149
+        },
+        "durations": [
+          {
+            "duration": 0.1436149,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "In Category there must be sixteen categories",
+    "steps": [
+      {
+        "name": "In Category there must be sixteen categories",
+        "aggregatedDurations": {
+          "median": 0.0478712,
+          "average": 0.0478712
+        },
+        "durations": [
+          {
+            "duration": 0.0478712,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "In landing page, there must be twelve menus in left side and assert every category",
+    "steps": [
+      {
+        "name": "In landing page, there must be twelve menus in left side and assert every category",
+        "aggregatedDurations": {
+          "median": 0.0807832,
+          "average": 0.0807832
+        },
+        "durations": [
+          {
+            "duration": 0.0807832,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "I want to pay,there must be shown five payment methods in the footer",
+    "steps": [
+      {
+        "name": "I want to pay,there must be shown five payment methods in the footer",
+        "aggregatedDurations": {
+          "median": 0.0329128,
+          "average": 0.0329128
+        },
+        "durations": [
+          {
+            "duration": 0.0329128,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Internationally Daraz is available in five countries and shows in footer",
+    "steps": [
+      {
+        "name": "Internationally Daraz is available in five countries and shows in footer",
+        "aggregatedDurations": {
+          "median": 0.0249328,
+          "average": 0.0249328
+        },
+        "durations": [
+          {
+            "duration": 0.0249328,
+            "location": "file:///C:/Users/mdran/Desktop/JavaNew/com.sales.daraz.cucumbor/src/test/resources/features/verify_home_page.feature:16"
+          }
+        ]
+      }
+    ]
+  }
+]

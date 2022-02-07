@@ -1,0 +1,13 @@
+
+@Regression
+Scenario: Verify Home page Functionality                                                 # src/test/resources/features/verify_home_page.feature:6
+  Given I am in Daraz.com.bd                                                             # stape_definitions.step_definition.i_am_in_Daraz_com_bd()
+  And I want to view the logo in left top side                                           # stape_definitions.step_definition.i_want_to_view_the_logo_in_left_top_side()
+  And I want to view the search bar in mid                                               # stape_definitions.step_definition.i_want_to_view_the_search_bar_in_mid()
+  And There must be a search button next to search bar                                   # stape_definitions.step_definition.there_must_be_a_search_button_next_to_search_bar()
+  And Also I want to view cart option                                                    # stape_definitions.step_definition.also_I_want_to_view_cart_option()
+  Then i want a category option                                                          # stape_definitions.step_definition.i_want_a_category_option()
+  And In Category there must be sixteen categories                                       # stape_definitions.step_definition.in_Category_there_must_be_sixteen_categories()
+  And In landing page, there must be twelve menus in left side and assert every category # stape_definitions.step_definition.in_landing_page_there_must_be_twelve_menus_in_left_side_and_assert_every_category()
+  When I want to pay,there must be shown five payment methods in the footer              # stape_definitions.step_definition.i_want_to_pay_there_must_be_shown_five_payment_methods_in_the_footer()
+  And Internationally Daraz is available in five countries and shows in footer           # stape_definitions.step_definition.internationally_Daraz_is_available_in_five_countries_and_shows_in_footer()
